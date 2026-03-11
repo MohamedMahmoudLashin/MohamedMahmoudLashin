@@ -34,14 +34,14 @@
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
+### 📱 Mobile Development
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 </p>
 
-### 🧠 Programming
+### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c"/>
 </p>
 
 ### ⚙️ Backend & Tools
