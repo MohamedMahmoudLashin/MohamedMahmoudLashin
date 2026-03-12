@@ -2,29 +2,30 @@
 <h3 align="center">Flutter Mobile App Developer from Egypt</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Firebase+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Firebase+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 💻 Passionate **Flutter Mobile App Developer**  
-📱 I build cross-platform mobile applications using Flutter  
+📱 I build **cross-platform mobile applications using Flutter**  
 🎯 Interested in **UI/UX and performance optimization**  
-📚 Always learning new technologies  
+📚 Always learning **new technologies**  
 🌍 Open for **Freelance & Remote Work**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.upwork.com/freelancers/~0191f66b479d67622d" target="blank">
+<p align="center">
+
+<a href="https://www.upwork.com/freelancers/~0191f66b479d67622d">
 <img src="https://img.shields.io/badge/Upwork-Profile-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohamedlashin1" target="blank">
+<a href="https://www.linkedin.com/in/mohamedlashin1">
 <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Lashin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -32,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 📱 Mobile Development
 <p>
@@ -49,70 +50,82 @@
 <img src="https://skillicons.dev/icons?i=firebase,git,github"/>
 </p>
 
-### 🎨 Design
+### 🎨 Design Tools
 <p>
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
 </p>
 
 ---
 
-## 📱 My Projects
+# 📱 My Projects
 
 ### 🧮 BMI Calculator App
-📌 Flutter application that calculates BMI using:
-- Height
-- Weight
-- Name
-- Birthdate
 
-Provides a health summary.
+Flutter application that calculates BMI using:
 
-Tech:
+• Height  
+• Weight  
+• Name  
+• Birthdate  
+
+Provides a **health summary**.
+
+**Tech Stack**
+
 `Flutter` `Dart` `MVVM`
 
 ---
 
 ### ✅ To Do App
-📌 Task management app built with Flutter.
 
-Features:
-- Add tasks
-- Edit tasks
-- Delete tasks
-- Mark tasks as completed
+Task management application built with Flutter.
 
-Tech:
+**Features**
+
+• Add tasks  
+• Edit tasks  
+• Delete tasks  
+• Mark tasks as completed  
+
+**Tech Stack**
+
 `Flutter` `Dart` `State Management`
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=MohamedMahmoudLashin&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMahmoudLashin&theme=tokyonight"/>
-</p>
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMahmoudLashin&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohamedMahmoudLashin&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MohamedMahmoudLashin&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-💡 I enjoy building beautiful apps and solving real-world problems with code.
+💡 I enjoy building **beautiful apps** and solving **real-world problems with code**.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MohamedMahmoudLashin/MohamedMahmoudLashin/output/snake.svg"/>
+</p>
 
 ---
 
